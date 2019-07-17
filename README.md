@@ -10,7 +10,7 @@ Information needed to attain our results is:
   * VendorID
   * tpep-pickup_datetime
   * tpep_dropoff_datetime
-  * PULOcationID
+  * PULocationID
   * DOLocationID
 
 With this information we can determine which taxi made the specific dropoffs to different locations throughout the day.
