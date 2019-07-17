@@ -8,7 +8,7 @@ Information needed to attain our results is:
 * Original tutorial: https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html#base-maps
 * Taxi Data: https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq
   * VendorID
-  * tpep-pickup_datetime
+  * tpep_pickup_datetime
   * tpep_dropoff_datetime
   * PULocationID
   * DOLocationID
